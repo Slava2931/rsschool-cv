@@ -16,4 +16,17 @@
 * ### Some Visual Studio cod
 * #### but I hope that in the near future I will learn and master a lot more
 
-
+# Code examples:
+```
+describe("Multiply", () => {
+  it("fixed tests", () => {
+    assert.strictEqual(multiply(1,1), 1);
+    assert.strictEqual(multiply(2,1), 2);
+    assert.strictEqual(multiply(2,2), 4);
+    assert.strictEqual(multiply(3,5), 15);   
+  });
+});
+```
+# Education:
+#### Minsk Vocational College: Assembly and Lifting and Transport Work
+* ##### electrical installer of power and lighting works
