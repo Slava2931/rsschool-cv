@@ -1,0 +1,37 @@
+.color{
+    background-color: #70b28fa8;
+max-width: 500px;
+margin: auto;
+}
+.exam{
+    background-color: beige;
+    color: #1f1a28;
+    }
+    .color2{
+        background-color: #a01e8da8;
+        position: relative;
+        min-height: 100%;
+    }
+    .color3{
+        background-color: #db7b27a8;
+     margin-top: -100px;
+     height: 100px;
+    }
+    .wrapper{
+        position: relative;
+        display: block;
+        min-width: 960px;
+        min-width: 700px;
+    }
+    .codeexample{
+   float: right;
+   height: 20%;
+   width: 20%;
+    }
+    .content{
+        padding-bottom: 90px;
+    }
+    .photo{float: right;
+        height: 20%;
+        width: 20%;
+ }
